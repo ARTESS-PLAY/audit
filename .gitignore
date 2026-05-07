@@ -1,0 +1,29 @@
+black_swan/criticism_audit_report.md
+main/audit_rules.md
+main/audit_example.md
+task_1/media
+# task_1/audit_1.md
+# task_2/audit_2.md
+# task_3/audit_3.md
+# task_4/audit_4.md
+task_1/solution_1.md
+task_2/solution_2.md
+task_3/solution_3.md
+task_4/solution_4.md
+task_1/audit_subject_1.md
+task_2/audit_subject_2.md
+task_3/audit_subject_3.md
+task_4/audit_subject_4.md
+task_1/criticism_1.md
+task_2/criticism_2.md
+task_3/criticism_3.md
+task_4/criticism_4.md
+# outcome.md
+
+task_1/task_1.md
+task_2/task_2.md
+task_3/task_3.md
+task_4/task_4.md
+
+build_audit_report.py
+audit_report.docx
