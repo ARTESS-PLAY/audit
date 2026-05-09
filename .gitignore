@@ -26,8 +26,11 @@ task_3/task_3.md
 task_4/task_4.md
 
 build_audit_report.py
-audit_report.docx
 
 # it_structure: в репозитории только audit_it_structure.docx
 it_structure/**
 !it_structure/audit_it_structure.docx
+
+strip_all_md_hr.py
+build_audit_report_fix.py
+build_audit_report_docx.py
